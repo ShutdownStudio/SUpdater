@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="gb18030"?>
+<SUpdater>
+	<Project>
+		<ID>SSKC</ID>
+		<Developer>ShutdownStudio</Developer>
+		<LocalConfigVersion>2</LocalConfigVersion>
+	</Project>
+	<Latest>
+		<FileList>DQoNCjxGb2xkZXI+LlwxPC9Gb2xkZXI+DQo8RmlsZT48SEFTSD1kYTU3NjZlZjZhYjRhMTMxYzI2ZjJlZTBmM2FlYTUwY2JmZDQ4Mjg1Pi5cMVxTU0tDX0NyZWF0ZS5leGU8L0ZpbGU+DQo8RmlsZT48SEFTSD0wZDA3ZjUyZWYwODQyN2QwM2YxZWEyMjdlNTMyNzNlNTc3MjYwZDkyPi5cU1NLQy5iYWs8L0ZpbGU+DQo8RmlsZT48SEFTSD01Zjk4NjExZmQ4N2VhMjA0MDU3ZmRhZjIxZmE1NjZlN2ViZDJkZTJkPi5cU1NLQy5lPC9GaWxlPg0KPEZpbGU+PEhBU0g9MTUzY2EwYTk3YWQyNTdhZTFlZmI4N2UzOTExNzRiNzFkYTU1MGZmMD4uXFNTS0NfQ3JlYXRlLmU8L0ZpbGU+</FileList>
+		<Date>1664746770</Date>
+		<Version>Alpha1.0.0.0</Version>
+	</Latest>
+</SUpdater>

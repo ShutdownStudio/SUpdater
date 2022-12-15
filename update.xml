@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="gb18030"?>
+<SUpdater>
+	<Project>
+		<ID>SSKC</ID>
+		<Developer>ShutdownStudio</Developer>
+		<UpdateConfigVersion>2</UpdateConfigVersion>
+	</Project>
+	<Latest>
+		<Version>Alpha1.0.0.0</Version>
+        <DownloadURL>http://example.com</DownloadURL>
+        <Password>snkwdkwndkwn</Password>
+		<Date>1664746770</Date>
+		<Note></Note>
+		<ChangeLog></ChangeLog>
+	</Latest>
+	<File>
+		<Add></Add>
+		<Remove></Remove>
+		<Change></Change>
+		<Hash></Hash>
+	</File>
+</SUpdater>
